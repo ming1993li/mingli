@@ -19,7 +19,7 @@ redirect_from:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[Jan. 2021]</b> Our paper "Discovering Discriminative Geometric Features with Self-Supervised Attention for Vehicle Re-Identification and Beyond" has been made public.</li>
+<!--   <li> <b>[Jan. 2021]</b> Our paper "Discovering Discriminative Geometric Features with Self-Supervised Attention for Vehicle Re-Identification and Beyond" has been made public.</li> -->
  
   <li> <b>[Oct. 2020]</b> Two papers are accepted by ICPR 2020!</li>
   
