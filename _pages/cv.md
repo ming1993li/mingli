@@ -26,7 +26,7 @@ Awards
 
 Work experience
 ======
-* Nov. 2019 - Present: Research Assistant
+* Nov. 2019 - April 2021: Research Assistant
   * Worcester Polytechnic Institute
   * Research work: supervised/unsupervised person/vehicle re-identification
 
