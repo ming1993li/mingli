@@ -9,11 +9,9 @@ redirect_from:
  # I was a visiting scholar in [VISLab](https://zhang-vislab.github.io) at [Worcester Polytechnic Institute](https://www.wpi.edu) from Nov. 2019 to Apri. 2021 and my supervisor is [Prof. Ziming Zhang](https://zhang-vislab.github.io/people/). Before that, I worked as a RA at [UNC Chapel Hill](https://www.unc.edu) from Aug. 2018 to Oct. 2019. My research interests lie in computer vision and deep learning, especially in person/vehicle re-identification, Multi-Targets-Multi-Cameras (MTMC) tracking and self-supervised visual learning.
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
-* I will join National University of Singapore for my Ph.D. study from Fall 2021 with a four year's fellowship.
+* I will join National University of Singapore for my Ph.D. study from Fall 2021 with a four year's fellowship. My research interests lie in computer vision and deep learning, especially in person/vehicle re-identification, self-supervised visual learning, and domain generalization.
 
-* I was a visiting scholar in [VISLab](https://zhang-vislab.github.io) at [Worcester Polytechnic Institute](https://www.wpi.edu) from Nov. 2019 to Apr. 2021 and my supervisor is [Prof. Ziming Zhang](https://zhang-vislab.github.io/people/). Before that, I worked as a RA at [UNC Chapel Hill](https://www.unc.edu) from Aug. 2018 to Oct. 2019. My research interests lie in computer vision and deep learning, especially in person/vehicle re-identification, Multi-Targets-Multi-Cameras (MTMC) tracking and self-supervised visual learning, domain generalization.
-
-* I graduated with a Master degree from [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/Home/HOME.htm) at [Peking University](http://english.pku.edu.cn) in July 2018. And I received my Bachelor degree from School of Electric Engineering of [Xidian University](https://en.xidian.edu.cn/index.htm) in July 2015. 
+* I was a visiting scholar in [VISLab](https://zhang-vislab.github.io) at [Worcester Polytechnic Institute](https://www.wpi.edu) from Nov. 2019 to Apr. 2021 and my supervisor is [Prof. Ziming Zhang](https://zhang-vislab.github.io/people/). Before that, I worked as a RA at [UNC Chapel Hill](https://www.unc.edu) from Aug. 2018 to Oct. 2019. I graduated with a Master degree from [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/Home/HOME.htm) at [Peking University](http://english.pku.edu.cn) in July 2018. And I received my Bachelor degree from School of Electric Engineering of [Xidian University](https://en.xidian.edu.cn/index.htm) in July 2015. 
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
