@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ming Li"
 title_separator          : "-"
 name                     : &name "Ming Li"
-description              : &description "Visiting Scholar at WPI"
+description              : &description "Ph.D. student at NUS"
 url                      : https://ming1993li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ming1993li.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ming"
   avatar           : "profile.png"
-  bio              : "Visiting Scholar at WPI, interested in computer vision and deep learning"
-  location         : "Worcester, Massachusetts"
+  bio              : "Ph.D. student at NUS, interested in computer vision and deep learning"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=zXP1CZwAAAAJ&hl=en"
-  email            : "mli12@wpi.edu"
+  email            : "ming.nus@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
