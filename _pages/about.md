@@ -6,11 +6,11 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
- # I have been a visiting scholar in [VISLab](https://zhang-vislab.github.io) at [Worcester Polytechnic Institute](https://www.wpi.edu) from Nov. 2019 and my supervisor is [Prof. Ziming Zhang](https://zhang-vislab.github.io/people/). Before that, I worked as a RA at [UNC Chapel Hill](https://www.unc.edu) from Aug. 2018 to Oct. 2019. My research interests lie in computer vision and deep learning, especially in person/vehicle re-identification, Multi-Targets-Multi-Cameras (MTMC) tracking and self-supervised visual learning.
+ # I was a visiting scholar in [VISLab](https://zhang-vislab.github.io) at [Worcester Polytechnic Institute](https://www.wpi.edu) from Nov. 2019 to Apri. 2021 and my supervisor is [Prof. Ziming Zhang](https://zhang-vislab.github.io/people/). Before that, I worked as a RA at [UNC Chapel Hill](https://www.unc.edu) from Aug. 2018 to Oct. 2019. My research interests lie in computer vision and deep learning, especially in person/vehicle re-identification, Multi-Targets-Multi-Cameras (MTMC) tracking and self-supervised visual learning.
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
 
-* I have been a visiting scholar in [VISLab](https://zhang-vislab.github.io) at [Worcester Polytechnic Institute](https://www.wpi.edu) from Nov. 2019 and my supervisor is [Prof. Ziming Zhang](https://zhang-vislab.github.io/people/). Before that, I worked as a RA at [UNC Chapel Hill](https://www.unc.edu) from Aug. 2018 to Oct. 2019. My research interests lie in computer vision and deep learning, especially in person/vehicle re-identification, Multi-Targets-Multi-Cameras (MTMC) tracking and self-supervised visual learning, domain generalization.
+* I was a visiting scholar in [VISLab](https://zhang-vislab.github.io) at [Worcester Polytechnic Institute](https://www.wpi.edu) from Nov. 2019 to Apri. 2021 and my supervisor is [Prof. Ziming Zhang](https://zhang-vislab.github.io/people/). Before that, I worked as a RA at [UNC Chapel Hill](https://www.unc.edu) from Aug. 2018 to Oct. 2019. My research interests lie in computer vision and deep learning, especially in person/vehicle re-identification, Multi-Targets-Multi-Cameras (MTMC) tracking and self-supervised visual learning, domain generalization.
 
 * I graduated with a Master degree from [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/Home/HOME.htm) at [Peking University](http://english.pku.edu.cn) in July 2018. And I received my Bachelor degree from School of Electric Engineering of [Xidian University](https://en.xidian.edu.cn/index.htm) in July 2015. 
  
