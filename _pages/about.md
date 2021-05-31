@@ -19,7 +19,7 @@ redirect_from:
   
   <li> <b>[Apr. 2021]</b> I complete my RA work at WPI!</li>
  
- <li> <b>[Mar. 2021]</b> I am awarded a four year's PhD fellowship from National University of Singapore!</li>
+ <li> <b>[Mar. 2021]</b> I am awarded a four-year\'s PhD fellowship from National University of Singapore!</li>
  
   <li> <b>[Oct. 2020]</b> Two papers are accepted by ICPR 2020!</li>
   
