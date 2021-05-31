@@ -27,7 +27,7 @@ redirect_from:
   
   <li> <b>[Jul. 2020]</b> Our paper on "3D LiDAR Odometry Estimation" has been accepted for presentation at the ACM Multimedia 2020 conference!</li>
   
-  <li> <b>[Jun. 2020]</b> My results on [AI City Challenge 2020](https://www.aicitychallenge.org) Track3: City-Scale Multi-Camera Vehicle Tracking rank 1st on leaderboard, which surpass second rank by a very large margin! Please check [the ranking results](https://ming1993li.github.io/images/AiCityChallenge2020_Track3.jpg)!</li>
+  <li> <b>[Jun. 2020]</b> My results on <a href="https://https://www.aicitychallenge.org">AI City Challenge 2020</a> Track3: City-Scale Multi-Camera Vehicle Tracking rank 1st on leaderboard, which surpass second rank by a very large margin! Please check <a href="https://ming1993li.github.io/images/AiCityChallenge2020_Track3.jpg">the ranking results</a>!</li>
   
   <li> <b>[Nov. 2019]</b> I start my research work on person/vehicle re-identification at Worcester Polytechnic Institute in MA, US.</li>
   
