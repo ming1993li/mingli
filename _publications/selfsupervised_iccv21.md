@@ -1,1 +1,16 @@
+---
+title: "Self-supervised Geometric Features Discovery with Interpretable Attention for Vehicle Re-Identification and Beyond"
+collection: publications
+permalink: /publication/selfsupervised_iccv21
+<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
+date: 2021-07-22
+venue: "International Conference on Computer Vision 2021"
+paperurl: ""
+citation: '<b>Ming Li</b>, Xinming Huang, Ziming Zhang. "Self-supervised Geometric Features Discovery with Interpretable Attention for Vehicle Re-Identification and Beyond". <i>ICCV</i>. 2021.'
+---
+# Self-supervised Geometric Features Discovery with Interpretable Attention for Vehicle Re-Identification and Beyond
 
+#[<a href="https://ming1993li.github.io/files/MM20_Lodo.pdf">Paper</a>]
+
+## Abstract
+To learn distinguishable patterns, most of recent works in vehicle re-identification (ReID) struggled to redevelop official benchmarks to provide various supervisions, which requires prohibitive human labors. In this paper, we seek to achieve the similar goal but do not involve more human efforts. To this end, we present a novel framework, which successfully encodes both geometric local features and global representations to distinguish vehicle instances, optimized only by the supervision from official ID labels. Specifically, given our insight that objects in ReID share similar geometric characteristics, we propose to borrow self-supervised representation learning to facilitate geometric features discovery. To condense these features, we present an interpretable attention, with the core of local maxima aggregation instead of fully automatic learning, whose mechanism is completely understandable and response map is physically reasonable. To the best of our knowledge, we are the first that perform self-supervised learning to discover geometric features. We conduct comprehensive experiments on three most popular datasets for vehicle ReID, i.e., VeRi-776, CityFlow-ReID, and VehicleID. We report our state-of-the-art (SOTA) performances and promising visualization results. We also show the excellent scalability of our approach on other ReID related tasks, i.e., person ReID and multi-target multi-camera (MTMC) vehicle tracking.
