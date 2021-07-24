@@ -15,11 +15,11 @@ redirect_from:
 ## <i class="fa fa-fw fa-rss "></i> Recent news ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-<!--   <li> <b>[Jan. 2021]</b> Our paper "Discovering Discriminative Geometric Features with Self-Supervised Attention for Vehicle Re-Identification and Beyond" has been made public.</li> -->
+  <li> <b>[Mar. 2021]</b> My paper "Self-supervised Geometric Features Discovery with Interpretable Attention for Vehicle Re-Identification and Beyond" is accepted by ICCV 2021 as a poster paper!</li>
   
   <li> <b>[Apr. 2021]</b> I complete my RA work at WPI!</li>
  
- <li> <b>[Mar. 2021]</b> I am awarded a four-year's PhD fellowship from National University of Singapore!</li>
+  <li> <b>[Mar. 2021]</b> I am awarded a four-year's PhD fellowship from National University of Singapore!</li>
  
   <li> <b>[Oct. 2020]</b> Two papers are accepted by ICPR 2020!</li>
   
