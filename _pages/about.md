@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
-* I am a first-year Ph.D. student at National University of Singapore. My research interests lie in computer vision and deep learning, especially in person/vehicle re-identification, cross-view geo-localization, and self-supervised visual learning.
+* I am a first-year Ph.D. student at [School of Computing](https://www.comp.nus.edu.sg/) and [Institute of Data Science](https://ids.nus.edu.sg/) of [National University of Singapore](https://nus.edu.sg/). My research interests lie in computer vision and deep learning, especially in person/vehicle re-identification, cross-view geo-localization, and self-supervised visual learning.
 
 * I was a visiting scholar in [VISLab](https://zhang-vislab.github.io) supervised by [Prof. Ziming Zhang](https://zhang-vislab.github.io/people/) at [Worcester Polytechnic Institute](https://www.wpi.edu) from Nov. 2019 to Apr. 2021. Before that, I worked as a RA supervised by [Prof. Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN) at [UNC Chapel Hill](https://www.unc.edu) from Aug. 2018 to Oct. 2019. I graduated with a Master degree from [School of EECS](https://eecs.pku.edu.cn/Home/HOME.htm) at [Peking University](http://english.pku.edu.cn) in Jul. 2018. And I received my Bachelor degree from School of EE of [Xidian University](https://en.xidian.edu.cn/index.htm) in Jul. 2015. 
 
