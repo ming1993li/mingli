@@ -10,7 +10,7 @@ author_profile: true
 <!-- ## Conference Articles ## -->
 <p>
 <a href="http://ming1993li.github.io/publications/exploit_part_tmm21"><img src="https://ming1993li.github.io/images/exploit_part_tmm21.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/></a>
-<b><a href="http://ming1993li.github.io/publications/exploit_part_tmm21">Exploiting Multi-view Part-wise Correlation via an Efficient Transformer for Vehicle Re-Identification</a></b><br><b>Ming Li</b>, Jun Liu, Ce Zheng, Xinming Huang, and Ziming Zhang. <i>IEEE TMM (under review)</i>. 2021.<br>
+<b><a href="http://ming1993li.github.io/publications/exploit_part_tmm21">Exploiting Multi-view Part-wise Correlation via an Efficient Transformer for Vehicle Re-Identification</a></b><br><b>Ming Li</b>, Jun Liu, Ce Zheng, Xinming Huang, and Ziming Zhang. <i>IEEE TMM</i>. 2021.<br>
 [<a href="https://ming1993li.github.io/files/exploit_part_tmm21.pdf">Paper</a>]
 <br clear="left">
 </p>
