@@ -15,6 +15,8 @@ redirect_from:
 ## <i class="fa fa-fw fa-rss "></i> Recent news ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[Dec. 2021]</b> My paper "Exploiting Multi-view Part-wise Correlation via an Efficient Transformer for Vehicle Re-Identification" is accepted by IEEE Transactions on Multimedia.</li>
+  
   <li> <b>[Jul. 2021]</b> My paper "Self-supervised Geometric Features Discovery with Interpretable Attention for Vehicle Re-Identification and Beyond" is accepted by ICCV 2021 as a poster paper!</li>
   
   <li> <b>[Apr. 2021]</b> I complete my RA work at WPI!</li>
