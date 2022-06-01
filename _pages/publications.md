@@ -48,7 +48,7 @@ Ce Zheng, Yecheng Lyu, <b>Ming Li</b>, Ziming Zhang. <i>ACM MM</i>. 2020.<br>
 <br clear="left">
 </p>
 
-## Projects ##
+<!-- ## Projects ##
 
 <p>
 <a href="http://ming1993li.github.io/publications/cscada"></a>
@@ -72,4 +72,4 @@ Ce Zheng, Yecheng Lyu, <b>Ming Li</b>, Ziming Zhang. <i>ACM MM</i>. 2020.<br>
 <a href="http://ming1993li.github.io/publications/ee"></a>
 <b><a href="http://ming1993li.github.io/publications/ee">Other experience in Electronic Engineering</a></b><br>
 <b>Ming Li</b>. Research project. Peking University & Xidian University, China. 2015.<br>
-</p>
+</p> -->
