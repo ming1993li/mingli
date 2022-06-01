@@ -43,7 +43,7 @@ Yun Yue, <b>Ming Li</b>, Venkatesh Saligramay, Ziming Zhang. <i>ICPR</i>. 2020.<
 <img src="https://ming1993li.github.io/images/lodo_mm_20_fig.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/></a>
 <b>LodoNet: A Deep Neural Network with 2D Keypoint Matching for 3D LiDAR Odometry Estimation</a></b><br>
 Ce Zheng, Yecheng Lyu, <b>Ming Li</b>, Ziming Zhang. <i>ACM MM</i>. 2020.<br>
-[<a href="[https://ming1993li.github.io/files/MM20_Lodo.pdf](https://dl.acm.org/doi/10.1145/3394171.3413771)">Paper</a>]
+[<a href="https://dl.acm.org/doi/10.1145/3394171.3413771">Paper</a>]
 <br clear="left">
 </p>
 
