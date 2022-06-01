@@ -26,7 +26,7 @@ author_profile: true
 <img src="https://ming1993li.github.io/images/ICPR20_TreeRNN.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/></a>
 <b>TreeRNN: Topology-Preserving Deep Graph Embedding and Learning</a></b><br>
 Yecheng Lyu, <b>Ming Li</b>, Xinming Huang, Ulkuhan Guler, Patrick Schaumont, and Ziming Zhang. <i>ICPR</i>. 2020.<br>
-[<a href="https://ieeexplore.ieee.org/abstract/document/9412808">Paper</a>]
+[<a href="https://ieeexplore.ieee.org/abstract/document/9412808">Paper</a>][<a href="https://github.com/YechengLyu/TreeRNN">Code</a>]
 <br clear="left">
 </p>
 
@@ -35,7 +35,7 @@ Yecheng Lyu, <b>Ming Li</b>, Xinming Huang, Ulkuhan Guler, Patrick Schaumont, an
 <img src="https://ming1993li.github.io/images/ICPR20_RNN.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/></a>
 <b>RNN Training along Locally Optimal Trajectories via Frank-Wolfe Algorithm</a></b><br>
 Yun Yue, <b>Ming Li</b>, Venkatesh Saligramay, Ziming Zhang. <i>ICPR</i>. 2020.<br>
-[<a href="https://ieeexplore.ieee.org/document/9412188">Paper</a>]
+[<a href="https://ieeexplore.ieee.org/document/9412188">Paper</a>][<a href="https://github.com/YunYunY/FW_RNN_optimizer">Code</a>]
 <br clear="left">
 </p>
 
