@@ -9,6 +9,13 @@ author_profile: true
 
 <!-- ## Conference Articles ## -->
 <p>
+<img src="https://ming1993li.github.io/images/STPrivacy.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
+<b>STPrivacy: Spatio-Temporal Tubelet Sparsification and Anonymization for Privacy-preserving Action Recognition</b><br><b>Ming Li</b>, Jun Liu, Hehe Fan, Jia-Wei Liu, Jiahe Li, Mike Zheng Shou, and Jussi Keppo. <i>arXiv</i>. 2023.<br>
+[<a href="https://arxiv.org/pdf/2301.03046v1.pdf">Paper</a>]
+<br clear="left">
+</p>
+
+<p>
 <img src="https://ming1993li.github.io/images/exploit_part_tmm21.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 <b>Exploiting Multi-view Part-wise Correlation via an Efficient Transformer for Vehicle Re-Identification</b><br><b>Ming Li</b>, Jun Liu, Ce Zheng, Xinming Huang, and Ziming Zhang. <i>IEEE TMM</i>. 2021.<br>
 [<a href="https://ieeexplore.ieee.org/document/9647974">Paper</a>]
