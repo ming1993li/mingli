@@ -10,8 +10,8 @@ author_profile: true
 <!-- ## Conference Articles ## -->
 <p>
 <img src="https://ming1993li.github.io/images/STPrivacy.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>STPrivacy: Spatio-Temporal Tubelet Sparsification and Anonymization for Privacy-preserving Action Recognition</b><br><b>Ming Li</b>, Jun Liu, Hehe Fan, Jia-Wei Liu, Jiahe Li, Mike Zheng Shou, and Jussi Keppo. <i>arXiv</i>. 2023.<br>
-[<a href="https://arxiv.org/pdf/2301.03046v1.pdf">Paper</a>]
+<b>STPrivacy: Spatio-Temporal Privacy-Preserving Action Recognition</b><br><b>Ming Li</b>, Xiangyu Xu, Hehe Fan, Pan Zhou, Jun Liu, Jia-Wei Liu, Jiahe Li, Jussi Keppo, Mike Zheng Shou, and Shuicheng Yan. <i>arXiv</i>. 2023.<br>
+[<a href="https://arxiv.org/pdf/2301.03046v2.pdf">Paper</a>]
 <br clear="left">
 </p>
 
