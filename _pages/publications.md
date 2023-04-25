@@ -11,7 +11,7 @@ author_profile: true
 <p>
 <img src="https://ming1993li.github.io/images/FakePoI.jpg?raw=true" alt="Figure" style="width: 200px; height: 90px;" hspace="20" align="left"/>
 <b>FakePoI: A Large-scale Fake Person of Interest Video Detection Benchmark and a Strong Baseline</b><br>Lulu Tian, Hongxun Yao, and <b>Ming Li</b>. <i>IEEE TCSVT</i>. 2023.<br>
-[<a href="https://github.com/cslltian/deepfake-detection">Paper</a>]
+[<a href="https://ieeexplore.ieee.org/document/10107587">Paper</a>][<a href="https://github.com/cslltian/deepfake-detection">Code</a>]
 <br clear="left">
 </p>
 
