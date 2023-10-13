@@ -9,7 +9,7 @@ author_profile: true
 
 <!-- ## Conference Articles ## -->
 <p>
-<img src="https://ming1993li.github.io/images/overview.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
+<img src="https://ming1993li.github.io/images/instant3d_overview.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 <b>Instant3D: Instant Text-to-3D Generation</b><br><b>Ming Li</b>, Pan Zhou, Jia-Wei Liu, Jussi Keppo, Min Lin, Shuicheng Yan and Xiangyu Xu. <i>arXiv</i>. 2023.<br>
 [<a href="">Paper</a>]
 <br clear="left">
