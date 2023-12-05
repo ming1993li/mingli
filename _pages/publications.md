@@ -9,6 +9,13 @@ author_profile: true
 
 <!-- ## Conference Articles ## -->
 <p>
+<img src="https://ming1993li.github.io/images/colonnerf.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
+<b>ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction</b><br>Yufei Shi, Beijia Lu, Jia-Wei Liu, <b>Ming Li</b> and Mike Zheng Shou. <i>arXiv</i>. 2023.<br>
+[<a href="http://arxiv.org/abs/2312.02015">Paper</a>][<a href="https://showlab.github.io/ColonNeRF/">Project</a>]
+<br clear="left">
+</p>
+
+<p>
 <img src="https://ming1993li.github.io/images/instant3d_overview.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 <b>Instant3D: Instant Text-to-3D Generation</b><br><b>Ming Li</b>, Pan Zhou, Jia-Wei Liu, Jussi Keppo, Min Lin, Shuicheng Yan and Xiangyu Xu. <i>arXiv</i>. 2023.<br>
 [<a href="http://arxiv.org/abs/2311.08403">Paper</a>][<a href="https://ming1993li.github.io/Instant3DProj/">Project</a>]
