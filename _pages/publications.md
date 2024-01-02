@@ -8,10 +8,18 @@ author_profile: true
 # <i class="fa fa-fw fa-copy"></i> Publications #
 
 <!-- ## Conference Articles ## -->
+
 <p>
 <img src="https://ming1993li.github.io/images/colonnerf.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 <b>ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction</b><br>Yufei Shi, Beijia Lu, Jia-Wei Liu, <b>Ming Li</b> and Mike Zheng Shou. <i>arXiv</i>. 2023.<br>
 [<a href="http://arxiv.org/abs/2312.02015">Paper</a>][<a href="https://showlab.github.io/ColonNeRF/">Project</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://ming1993li.github.io/images/SemiSupervisedDiseaseClassification.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
+<b>Semi-Supervised Disease Classification based on Limited Medical Image Data</b><br>Yan Zhang, Zhaoxia Liu, Chun Li, and <b>Ming Li</b>. <i>arXiv</i>. 2023.<br>
+[<a href="">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
