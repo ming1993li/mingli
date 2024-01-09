@@ -18,7 +18,7 @@ author_profile: true
 
 <p>
 <img src="https://ming1993li.github.io/images/SemiSupervisedDiseaseClassification.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>Semi-Supervised Disease Classification based on Limited Medical Image Data</b><br>Yan Zhang, Zhaoxia Liu, Chun Li and <b>Ming Li</b>. <i>Journal of Biomedical and Health Informatics</i>. 2023.<br>
+<b>Semi-Supervised Disease Classification based on Limited Medical Image Data</b><br>Yan Zhang, Zhaoxia Liu, Chun Li and <b>Ming Li</b>. <i>Journal of Biomedical and Health Informatics</i>. 2024.<br>
 [<a href="https://ieeexplore.ieee.org/document/10381816">Paper</a>][<a href="https://github.com/wmh12138/Paper_Code/tree/master/train">Code</a>]
 <br clear="left">
 </p>
