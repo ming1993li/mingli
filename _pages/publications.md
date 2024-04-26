@@ -25,7 +25,7 @@ author_profile: true
 
 <p>
 <img src="https://ming1993li.github.io/images/instant3d_overview.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>Instant3D: Instant Text-to-3D Generation</b><br><b>Ming Li</b>, Pan Zhou, Jia-Wei Liu, Jussi Keppo, Min Lin, Shuicheng Yan and Xiangyu Xu. <i>arXiv</i>. 2023.<br>
+<b>Instant3D: Instant Text-to-3D Generation</b><br><b>Ming Li</b>, Pan Zhou, Jia-Wei Liu, Jussi Keppo, Min Lin, Shuicheng Yan and Xiangyu Xu. <i>International Journal of Computer Vision</i>. 2024.<br>
 [<a href="http://arxiv.org/abs/2311.08403">Paper</a>][<a href="https://ming1993li.github.io/Instant3DProj/">Project</a>]
 <br clear="left">
 </p>
