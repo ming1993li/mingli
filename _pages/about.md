@@ -17,6 +17,8 @@ redirect_from:
 ## <i class="fa fa-fw fa-rss "></i> Recent news ##
 
 <ul style="width: auto; height: 300px; overflow: auto">  
+  <li> <b>[Dec. 2021]</b> My paper "Exploiting Multi-view Part-wise Correlation via an Efficient Transformer for Vehicle Re-Identification" published on IEEE Transactions on Multimedia has been selected as **ESI Highly Cited Papers**.</li>
+  
   <li> <b>[Apr. 2023]</b> Our paper "FakePoI: A Large-scale Fake Person of Interest Video Detection Benchmark and a Strong Baseline" is accepted by IEEE Transactions on CSVT.</li>
   
   <li> <b>[Jun. 2022]</b> I am very pleased to give an invited online talk about Facial Expression Recognition at School of Science, Harbin Institute of Technology, Shenzhen.</li>
