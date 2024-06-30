@@ -16,8 +16,10 @@ redirect_from:
 
 ## <i class="fa fa-fw fa-rss "></i> Recent news ##
 
-<ul style="width: auto; height: 300px; overflow: auto">  
-  <li> <b>[Dec. 2021]</b> My paper "Exploiting Multi-view Part-wise Correlation via an Efficient Transformer for Vehicle Re-Identification" published on IEEE Transactions on Multimedia has been selected as **ESI Highly Cited Papers**.</li>
+<ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[Jan. 2024]</b> I am very pleased to give an invited talk, hosted by Prof. Hehe Fan, about 3D AIGC at School of Computer Science, Zhejiang University, Hangzhou.</li>
+  
+  <li> <b>[Oct. 2023]</b> My paper "Exploiting Multi-view Part-wise Correlation via an Efficient Transformer for Vehicle Re-Identification" published on IEEE Transactions on Multimedia has been selected as <b>ESI Highly Cited Papers</b> for several times.</li>
   
   <li> <b>[Apr. 2023]</b> Our paper "FakePoI: A Large-scale Fake Person of Interest Video Detection Benchmark and a Strong Baseline" is accepted by IEEE Transactions on CSVT.</li>
   
