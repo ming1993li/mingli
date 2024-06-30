@@ -17,7 +17,13 @@ redirect_from:
 ## <i class="fa fa-fw fa-rss "></i> Recent news ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[April. 2024]</b> My paper "Instant3D: Instant Text-to-3D Generation" is accepted by International Journal of Computer Vision.</li>
+
+  <li> <b>[Feb. 2024]</b> I received many cooperation invitations from famous industrial institutes, like Gaorong Capital and Huawei after we proposed a novel fast text-to-3D generation paradigm in our manuscript "Instant3D: Instant Text-to-3D Generation".</li>
+  
   <li> <b>[Jan. 2024]</b> I am very pleased to give an invited talk, hosted by Prof. Hehe Fan, about 3D AIGC at School of Computer Science, Zhejiang University, Hangzhou.</li>
+
+  <li> <b>[Nov. 2023]</b> My paper "EDR-FER: Discriminative and Robust Representation Learning for Facial Expression Recognition" is accepted by IEEE Transactions on Multimedia.</li>
   
   <li> <b>[Oct. 2023]</b> My paper "Exploiting Multi-view Part-wise Correlation via an Efficient Transformer for Vehicle Re-Identification" published on IEEE Transactions on Multimedia has been selected as <b>ESI Highly Cited Papers</b> for several times.</li>
   
