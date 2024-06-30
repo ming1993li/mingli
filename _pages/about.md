@@ -11,7 +11,7 @@ redirect_from:
 * I completed my Ph.D. study (President PhD Fellowship Holder), supervised by [Prof. Shuicheng Yan](https://scholar.google.com.hk/citations?user=DNuiPHwAAAAJ&hl=zh-CN) and [Prof. Mike Shou](https://sites.google.com/view/showlab), at [Institute of Data Science](https://ids.nus.edu.sg/) of [National University of Singapore](https://nus.edu.sg/). I also work closely with [Dr. Xiangyu Xu](https://scholar.google.com/citations?user=Ec5Biz4AAAAJ&hl=zh-CN), [Prof. Huazhu Fu](https://hzfu.github.io),  and [Prof. Jun Liu](https://istd.sutd.edu.sg/people/faculty/liu-jun). My current research interests lie in AIGC (text-to-image/video/3D) and Multi-modal Large
 Language Models (MLLMs). My previous work is about (Privacy-Preserving) Action Recognition, Self-supervised Representation Learning, Person/Vehicle Re-identification and Facial Expression Recognition.
 
-* I am building a team (about 10 persons) conducting research on AIGC and Multi-modal Large Language Models (MLLMs). Full-time researchers, students and remote cooperation are very welcome!
+* I am building a team (about 10 persons) conducting research on AIGC and Multi-modal Large Language Models (MLLMs). Full-time researchers, students and remote cooperations are very welcome!
 
 * Internship: I worked as a research scientist intern at Sea AI Lab and Shanghai AI Lab.
 
