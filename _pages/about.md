@@ -17,7 +17,9 @@ redirect_from:
 ## <i class="fa fa-fw fa-rss "></i> Recent news ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[April. 2024]</b> My paper "Instant3D: Instant Text-to-3D Generation" is accepted by International Journal of Computer Vision.</li>
+  <li> <b>[May 2024]</b> I successfully pass my Ph.D. defense and receive my certificate!</li>
+  
+  <li> <b>[Apr. 2024]</b> My paper "Instant3D: Instant Text-to-3D Generation" is accepted by International Journal of Computer Vision.</li>
 
   <li> <b>[Feb. 2024]</b> I received many cooperation invitations from famous industrial institutes, like Gaorong Capital and Huawei after we proposed a novel fast text-to-3D generation paradigm in our manuscript "Instant3D: Instant Text-to-3D Generation".</li>
   
