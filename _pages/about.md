@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
-* I am a third-year Ph.D. student (President PhD Fellowship Holder), supervised by [Prof. Shuicheng Yan](https://scholar.google.com.hk/citations?user=DNuiPHwAAAAJ&hl=zh-CN) and [Prof. Mike Shou](https://sites.google.com/view/showlab), at [Institute of Data Science](https://ids.nus.edu.sg/) of [National University of Singapore](https://nus.edu.sg/). I also work closely with [Dr. Xiangyu Xu](https://scholar.google.com/citations?user=Ec5Biz4AAAAJ&hl=zh-CN), [Prof. Huazhu Fu](https://hzfu.github.io),  and [Prof. Jun Liu](https://istd.sutd.edu.sg/people/faculty/liu-jun). My current research interests lie in 3D Reconstruction/NeRF and Diffusion Models. My previous work is about (Privacy-Preserving) Action Recognition, Self-supervised Representation Learning, Person/Vehicle Re-identification and Facial Expression Recognition.
+* I completed my Ph.D. study (President PhD Fellowship Holder), supervised by [Prof. Shuicheng Yan](https://scholar.google.com.hk/citations?user=DNuiPHwAAAAJ&hl=zh-CN) and [Prof. Mike Shou](https://sites.google.com/view/showlab), at [Institute of Data Science](https://ids.nus.edu.sg/) of [National University of Singapore](https://nus.edu.sg/). I also work closely with [Dr. Xiangyu Xu](https://scholar.google.com/citations?user=Ec5Biz4AAAAJ&hl=zh-CN), [Prof. Huazhu Fu](https://hzfu.github.io),  and [Prof. Jun Liu](https://istd.sutd.edu.sg/people/faculty/liu-jun). My current research interests lie in 3D AIGC/Reconstruction and Multi-modal Large
+Language Models (MLLMs). My previous work is about (Privacy-Preserving) Action Recognition, Self-supervised Representation Learning, Person/Vehicle Re-identification and Facial Expression Recognition.
+
+* Internship: I worked as a research scientist intern at Sea AI Lab and Shanghai AI Lab.
 
 * Academic services: I am a regular reviwer for IEEE TPAMI, ICCV23, NeurIPS23, IEEE TNNLS, IEEE TIP and Neurocomputing.
 
