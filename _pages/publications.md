@@ -47,7 +47,7 @@ author_profile: true
 <p>
 <img src="https://ming1993li.github.io/images/STPrivacy.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 <b>STPrivacy: Spatio-Temporal Privacy-Preserving Action Recognition</b><br><b>Ming Li</b>, Xiangyu Xu, Hehe Fan, Pan Zhou, Jun Liu, Jia-Wei Liu, Jiahe Li, Jussi Keppo, Mike Zheng Shou, and Shuicheng Yan. <i>ICCV</i>. 2023.<br>
-[<a href="https://arxiv.org/pdf/2301.03046v2.pdf">Paper</a>][<a href="https://drive.google.com/file/d/1vLGdlpzom02TZnVOvqja-kUB-GxBmT95/view?usp=sharing">Code</a>]
+[<a href="https://arxiv.org/pdf/2301.03046v2.pdf">Paper</a>][<a href="https://github.com/ming1993li/stprivacy">Code</a>]
 <br clear="left">
 </p>
 
