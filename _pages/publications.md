@@ -26,9 +26,9 @@ author_profile: true
 </p>
 
 <p>
-<img src="https://ming1993li.github.io/images/RealEra.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>RealEra: Semantic-level Concept Erasure via Neighbor-Concept Mining</b><br>Yufan Liu, Jinyang An, Wanqian Zhang*, <b>Ming Li</b>*, Dayan Wu, Jingzi Gu, Zheng Lin and Weiping Wang. <i>arXiv</i>. 2024. (*Corresponding Authors)<br> 
-[<a href="https://arxiv.org/abs/2410.09140">Paper</a>][<a href="https://realerasing.github.io/RealEra/">Project</a>]
+<img src="https://ming1993li.github.io/images/Zhangyan.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
+<b>Uncertainty Quantification via Holder Divergence for Multi-View Representation Learning</b><br>Yan Zhang†, <b>Ming Li</b>†, Chun Li, Zhaoxia Liu, Ye Zhang, and Fei Richard Yu. <i>Under Review</i>. 2024. (†Equal Contributors)<br> 
+[<a href="">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
