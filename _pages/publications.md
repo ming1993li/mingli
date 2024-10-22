@@ -9,6 +9,15 @@ author_profile: true
 
 <!-- ## Conference Articles ## -->
 
+
+
+<p>
+<img src="https://ming1993li.github.io/images/colonnerf.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
+<b>RealEra: Semantic-level Concept Erasure via Neighbor-Concept Mining</b><br>Yufan Liu, Jinyang An, Wanqian Zhang*, <b>Ming Li</b>*, Dayan Wu, Jingzi Gu, Zheng Lin and Weiping Wang. <i>arXiv</i>. 2024. (*Corresponding Authors)<br> 
+[<a href="https://arxiv.org/abs/2410.09140">Paper</a>][<a href="https://realerasing.github.io/RealEra/">Project</a>]
+<br clear="left">
+</p>
+
 <p>
 <img src="https://ming1993li.github.io/images/colonnerf.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 <b>ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction</b><br>Yufei Shi, Beijia Lu, Jia-Wei Liu, <b>Ming Li</b> and Mike Zheng Shou. <i>arXiv</i>. 2023.<br>
