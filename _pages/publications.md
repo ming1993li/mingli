@@ -15,14 +15,14 @@ author_profile: true
 </p>
 
 <p>
-<img src="https://ming1993li.github.io/images/EFTViT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>EFTViT: Efficient Federated Training of Vision Transformers with Masked Images on Resource-Constrained Edge Devices</b><br>Meihan Wu, Tao Chang, Miaocui, Jie Zhou, Chun Li, Xiangyu Xu, <b>Ming Li</b>*, Xiaodong Wang. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
+<img src="https://ming1993li.github.io/images/EFTViT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>EFTViT: Efficient Federated Training of Vision Transformers with Masked Images on Resource-Constrained Edge Devices</b><br>Meihan Wu, Tao Chang, Miaocui, Jie Zhou, Chun Li, Xiangyu Xu, <b>Ming Li</b>*, and Xiaodong Wang. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
 [<a href="">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
 
 
 <p>
-<img src="https://ming1993li.github.io/images/CustStyle.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Gaussian Splatting Stylization with Customized Reference via Dynamic Style Score Distillation</b><br>Cailin Zhuang, Yaoqi Hu, Jiacheng Bao, Song Tong, Tao He, Chun Li, Lan Xu, <b>Ming Li</b>*. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
+<img src="https://ming1993li.github.io/images/CustStyle.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Gaussian Splatting Stylization with Customized Reference via Dynamic Style Score Distillation</b><br>Cailin Zhuang, Yaoqi Hu, Jiacheng Bao, Song Tong, Tao He, Chun Li, Lan Xu, and <b>Ming Li</b>*. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
 [<a href="">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
