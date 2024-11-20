@@ -8,12 +8,42 @@ author_profile: true
 # <i class="fa fa-fw fa-copy"></i> Publications #
 
 <!-- ## Conference Articles ## -->
+<p>
+<img src="https://ming1993li.github.io/images/EventGPT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>EventGPT: Event Stream Understanding with Multimodal Large Language Models</b><br>shaoyu liu, Jianing Li, guanghui zhao, Yunjian Zhang, Xin Meng, Fei Richard Yu, Xiangyang Ji, and <b>Ming Li</b>*. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
+[<a href="">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
 
+<p>
+<img src="https://ming1993li.github.io/images/EFTViT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>EFTViT: Efficient Federated Training of Vision Transformers with Masked Images on Resource-Constrained Edge Devices</b><br>Meihan Wu, Tao Chang, Miaocui, Jie Zhou, Chun Li, Xiangyu Xu, <b>Ming Li</b>*, Xiaodong Wang. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
+[<a href="">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
 
 
 <p>
+<img src="https://ming1993li.github.io/images/CustStyle.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>Gaussian Splatting Stylization with Customized Reference via Dynamic Style Score Distillation</b><br>Cailin Zhuang, Yaoqi Hu, Jiacheng Bao, Song Tong, Tao He, Chun Li, Lan Xu, <b>Ming Li</b>*. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
+[<a href="">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://ming1993li.github.io/images/SE-MOT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
+<b>SE-MOT: End-to-End Multi-Object Tracking in Low-Quality Video Scenes Guided by Semantic Enhancement</b><br>Jun Du , Weiwei Xing, <b>Ming Li</b>*, Fei Richard Yu. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
+[<a href="">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://ming1993li.github.io/images/Brain.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
+<b>Robust Brain Tumor Segmentation with Incomplete MRI Modalities Using H¨older Divergence and Mutual Information-Enhanced Knowledge Transfer</b><br>Runze Cheng†, Xihang Qiu†, <b>Ming Li</b>†, Ye Zhang, Fei Richard Yu, and Chun Li. <i>Under Review</i>. 2024. (†Equal Contributors)<br> 
+[<a href="">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
+<p>
 <img src="https://ming1993li.github.io/images/RealEra.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>RealEra: Semantic-level Concept Erasure via Neighbor-Concept Mining</b><br>Yufan Liu, Jinyang An, Wanqian Zhang*, <b>Ming Li</b>*, Dayan Wu, Jingzi Gu, Zheng Lin and Weiping Wang. <i>ArXiv</i>. 2024. (*Corresponding Authors)<br> 
+<b>RealEra: Semantic-level Concept Erasure via Neighbor-Concept Mining</b><br>Yufan Liu, Jinyang An, Wanqian Zhang, <b>Ming Li</b>*, Dayan Wu, Jingzi Gu, Zheng Lin and Weiping Wang. <i>ArXiv</i>. 2024. (*Corresponding Authors)<br> 
 [<a href="https://arxiv.org/abs/2410.09140">Paper</a>][<a href="https://realerasing.github.io/RealEra/">Project</a>]
 <br clear="left">
 </p>
