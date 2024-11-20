@@ -16,7 +16,7 @@ Language Models (MLLMs). My previous work is about (Privacy-Preserving) Action R
 
 * Internship: I worked as a research scientist intern at Sea AI Lab and Shanghai AI Lab.
 
-* Academic services: I am a regular reviwer for IEEE TPAMI, ICCV23, NeurIPS23, IEEE TNNLS, IEEE TIP and Neurocomputing.
+* Academic services: I am a regular reviwer for IEEE TPAMI, CVPR, ICCV, NeurIPS, AAAI, IEEE TMM, IEEE TIP, IEEE TNNLS, and Neurocomputing.
 
 * I was a visiting scholar in [VISLab](https://zhang-vislab.github.io) supervised by [Prof. Ziming Zhang](https://zhang-vislab.github.io/people/) at [Worcester Polytechnic Institute](https://www.wpi.edu) from Nov. 2019 to Apr. 2021. Before that, I worked as a RA supervised by [Prof. Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN) at [UNC Chapel Hill](https://www.unc.edu) from Aug. 2018 to Oct. 2019. I graduated with a Master degree from [School of EECS](https://eecs.pku.edu.cn/Home/HOME.htm) at [Peking University](http://english.pku.edu.cn) in Jul. 2018. And I received my Bachelor degree from School of EE of [Xidian University](https://en.xidian.edu.cn/index.htm) in Jul. 2015. 
 
