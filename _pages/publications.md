@@ -29,7 +29,7 @@ author_profile: true
 
 <p>
 <img src="https://ming1993li.github.io/images/SE-MOT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>SE-MOT: End-to-End Multi-Object Tracking in Low-Quality Video Scenes Guided by Semantic Enhancement</b><br>Jun Du , Weiwei Xing, <b>Ming Li</b>*, Fei Richard Yu. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
+<b>SE-MOT: End-to-End Multi-Object Tracking in Low-Quality Video Scenes Guided by Semantic Enhancement</b><br>Jun Du , Weiwei Xing, <b>Ming Li</b>*, and Fei Richard Yu. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
 [<a href="">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
