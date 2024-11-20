@@ -9,7 +9,7 @@ author_profile: true
 
 <!-- ## Conference Articles ## -->
 <p>
-<img src="https://ming1993li.github.io/images/EventGPT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>EventGPT: Event Stream Understanding with Multimodal Large Language Models</b><br>shaoyu liu, Jianing Li, guanghui zhao, Yunjian Zhang, Xin Meng, Fei Richard Yu, Xiangyang Ji, and <b>Ming Li</b>*. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
+<img src="https://ming1993li.github.io/images/EventGPT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>EventGPT: Event Stream Understanding with Multimodal Large Language Models</b><br>Shaoyu liu, Jianing Li, Guanghui Zhao, Yunjian Zhang, Xin Meng, Fei Richard Yu, Xiangyang Ji, and <b>Ming Li</b>*. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
 [<a href="">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
