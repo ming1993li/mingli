@@ -10,13 +10,13 @@ author_profile: true
 <!-- ## Conference Articles ## -->
 <p>
 <img src="https://ming1993li.github.io/images/EventGPT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>EventGPT: Event Stream Understanding with Multimodal Large Language Models</b><br>Shaoyu liu, Jianing Li, Guanghui Zhao, Yunjian Zhang, Xin Meng, Fei Richard Yu, Xiangyang Ji, and <b>Ming Li</b>*. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
-[<a href="">Paper</a>][<a href="">Project</a>]
+[<a href="https://arxiv.org/abs/2412.00832">Paper</a>][<a href="https://xdusyl.github.io/eventgpt.github.io/">Project</a>]
 <br clear="left">
 </p>
 
 <p>
 <img src="https://ming1993li.github.io/images/EFTViT.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/><b>EFTViT: Efficient Federated Training of Vision Transformers with Masked Images on Resource-Constrained Edge Devices</b><br>Meihan Wu, Tao Chang, Miaocui, Jie Zhou, Chun Li, Xiangyu Xu, <b>Ming Li</b>*, and Xiaodong Wang. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
-[<a href="">Paper</a>][<a href="">Project</a>]
+[<a href="http://arxiv.org/abs/2412.00334">Paper</a>][<a href="http://arxiv.org/abs/2412.00334">Project</a>]
 <br clear="left">
 </p>
 
