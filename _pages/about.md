@@ -9,7 +9,7 @@ redirect_from:
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
 
-* I am a Talented Star Full Prefessor and Principle Investigator in Guangming Lab (Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)). I am building a team (about 10 persons) conducting research on AIGC and Multi-modal Large Language Models (MLLMs). Full-time researchers, visiting students and remote cooperations are very welcome!
+* I am a Talented Star Full Prefessor and Principle Investigator in Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ). I am leading a team (about 15 persons) conducting research on AIGC, Multi-modal Large Language Models, 3D Reconstruction, Embodied AI, and Smart Cities. Full-time researchers, visiting students and remote cooperations are very welcome!
 
 * I completed my Ph.D. study (President PhD Fellowship Holder), supervised by [Prof. Shuicheng Yan](https://scholar.google.com.hk/citations?user=DNuiPHwAAAAJ&hl=zh-CN) and [Prof. Mike Shou](https://sites.google.com/view/showlab), at [Institute of Data Science](https://ids.nus.edu.sg/) of [National University of Singapore](https://nus.edu.sg/). I also work closely with [Dr. Xiangyu Xu](https://scholar.google.com/citations?user=Ec5Biz4AAAAJ&hl=zh-CN), [Prof. Huazhu Fu](https://hzfu.github.io),  and [Prof. Jun Liu](https://istd.sutd.edu.sg/people/faculty/liu-jun). My current research interests lie in AIGC (text-to-image/video/3D) and Multi-modal Large
 Language Models (MLLMs). My previous work is about (Privacy-Preserving) Action Recognition, Self-supervised Representation Learning, Person/Vehicle Re-identification and Facial Expression Recognition.
