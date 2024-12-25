@@ -69,6 +69,14 @@ author_profile: true
 <br clear="left">
 </p>
 
+
+<p>
+<img src="https://ming1993li.github.io/images/slam.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
+<b>DEP-SLAM: A Dynamic Environment Perception SLAM System with Large Language Models</b><br>Ying He, F. Richard Yu, Fei Ma, <b>Ming Li</b>, and Guang Zhou. <i>ICASSP</i>. 2025.<br>
+[<a href="">Paper</a>][<a href="">Project</a>]
+<br clear="left">
+</p>
+
 <p>
 <img src="https://ming1993li.github.io/images/SemiSupervisedDiseaseClassification.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
 <b>Semi-Supervised Disease Classification based on Limited Medical Image Data</b><br>Yan Zhang, Zhaoxia Liu, Chun Li and <b>Ming Li</b>. <i>Journal of Biomedical and Health Informatics</i>. 2024.<br>
