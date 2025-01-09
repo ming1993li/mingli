@@ -37,7 +37,7 @@ author_profile: true
 
 <p>
 <img src="https://ming1993li.github.io/images/resilience.jpg?raw=true" alt="Figure" style="width: 200px; height: 120px;" hspace="20" align="left"/>
-<b>Resilient Missing-Modality MRI Segmentation Based on Mamba State-Space Modeling and Information-Theoretic Criteria</b><br>Runze Cheng, Xihang Qiu, Jiarong Cheng, Xiangyu Xue, Ye Zhanga, Chun Li, <b>Ming Li</b>*, and Fei Richard Yu. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
+<b>Resilient Missing-Modality MRI Segmentation Based on Mamba State-Space Modeling and Information-Theoretic Criteria</b><br>Runze Cheng, Xihang Qiu, Jiarong Cheng, Xiangyu Xue, Ye Zhang, Chun Li, <b>Ming Li</b>*, and Fei Richard Yu. <i>Under Review</i>. 2024. (*Corresponding Authors)<br> 
 [<a href="">Paper</a>][<a href="">Project</a>]
 <br clear="left">
 </p>
